@@ -318,7 +318,7 @@ section#single-wrap {
   width: 100%;
   max-width: 780px;
   margin: 20px auto;
-  font-family: 'Lora', Georgia, serif;
+  font-family: inherit;
   background: #fff;
   z-index: 1;
 }
