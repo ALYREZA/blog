@@ -7,7 +7,7 @@ title: Homepage
   <ul class="posts">
     {% for post in site.posts %}
       <li itemscope itemtype="http://schema.org/BlogPosting">
-        <a href="{{ post.url }}" itemprop="url">
+        <a href="{{ site.url }}{{ post.url }}" itemprop="url">
           <div class="p-wrap">
             <time datetime="{{ post.date | date_to_xmlschema }}" class="date"
                 itemprop="datePublished">
