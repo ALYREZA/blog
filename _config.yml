@@ -1,0 +1,19 @@
+name: "WebMen"
+
+description: "وبلاگی مخصوص تکنولوژی های وب"
+keyword: "alyreza, alyreza mahmoudy,"
+
+author: "Alyreza Mahmoudy"
+year: 1392
+github: "https://github.com/alyreza"
+facebook: "https://facebook.com/webmen.ir"
+
+url: "http://127.0.0.1:4000"
+baseurl: /
+
+
+markdown: rdiscount
+encoding: "UTF-8"
+permalink: :title.html
+pygments: true
+
