@@ -3,6 +3,7 @@ layout: post
 title: "  مهاجرت از وردپرس به سمت Jekyll"
 date: 2014-02-20 02:32:30
 tarikh: "01 اسفند 92"
+comment: true
 
 ---
 
