@@ -2,24 +2,7 @@
 layout: post
 date: 2014-02-20 01:19:30
 title: "سلام جهان"
-tarikh: "30 اسفند 1392"
-comment: true
+tarikh: "30 بهمن 92"
 ---
-به نام خداوندبخشنده مهربان
-#شماره یک
-سلام
-{% highlight php %}
-<?php
-	/**
-	* 
-	*/
-	class ClassName extends AnotherClass
-	{
-		
-		function __construct(argument)
-		{
-			echo "hello world";
-		}
-	}
-?>
-{% endhighlight %}
+وبلاگ ما هم اکنون کار خودش را آغاز کرد 
+با کمک گیت هاب و جیکیل
